@@ -5,6 +5,6 @@
 
 ## :computer: - Exercicio 2 - Observer
 ### Este exercício foi realizado com o intuito de fazer uma aplicação que através do design Observer, seja possível realizar:
-- Contar número total de palavras
-- Contar palavras com quantidades pares de caracteres
-- Contar palavras iniciadas por letra maiúscula
+- Contar número total de palavras.
+- Contar palavras com quantidades pares de caracteres.
+- Contar palavras iniciadas por letra maiúscula.
